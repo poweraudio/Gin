@@ -1,3 +1,13 @@
+**PowerAudio fork of Gin**
+
+This fork of Gin currently has no changes. The following changes have since
+been merged upstream:
+
+* Fixed compilation on architectures without native SIMD support (non-x86,
+  non-ARM).
+
+---
+
 # Gin
 A few useful extra classes for [JUCE](https://juce.com/) that I've come up with over the years.
 
